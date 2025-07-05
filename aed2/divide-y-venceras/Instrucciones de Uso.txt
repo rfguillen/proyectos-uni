@@ -1,0 +1,5 @@
+Ejecutando el programa generado con el archivo Generador.cpp se obtienen casos de prueba más favorables, menos favorables y promedios.
+Esos casos tienen tanto la cadena A como el conjunto S.
+Ejecutando el programa generado con el archivo "DyV Ejercicio 7.cpp" se obtiene el programa principal.
+Al ejecutarlo, se pedirá introducir la cadena A (ejemplo de introducción : "cadenadeejemplo") y el conjunto S (ejemplo de introducción: "abcde").
+Tras introducir ambos, se obtendrá la salida.
