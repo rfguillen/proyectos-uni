@@ -1,10 +1,10 @@
 ## 📁 Estructura del repositorio
-- `aed1/` – Algoritmos y Estructuras de Datos 1 (C++)
-- `aed2/` – Algoritmos y Estructuras de Datos 2 (C++)
-- `alf/` – Autómatas y Lenguajes Formales (Python)
+- `aed1/` – Proyecto de Algoritmos y Estructuras de Datos 1 (C++)
+- `aed2/` – Proyecto de Algoritmos y Estructuras de Datos 2 (C++)
+- `alf/` – Proyecto de Autómatas y Lenguajes Formales (Python)
 - `bd/` – Bases de Datos (consultas y ejercicios en SQL)
-- `compiladores/` – Proyecto de compilador (análisis léxico/sintáctico, generación de código)
-- `redes/` – Redes de Comunicación (Java)
+- `compiladores/` – Proyecto de Compiladores (análisis léxico/sintáctico, generación de código)
+- `redes/` – Proyecto de Redes de Comunicaciones (Java)
 
 ---
 
